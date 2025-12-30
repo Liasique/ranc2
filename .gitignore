@@ -1,0 +1,17 @@
+# Temporary files
+*.tmp
+*.temp
+.DS_Store
+Thumbs.db
+
+# Personal notes (uncomment if you want to keep study materials private)
+# exam-prep/subjects/*
+# exam-prep/study-guides/*
+# exam-prep/practice-questions/*
+# exam-prep/revision-notes/*
+# exam-prep/schedule/*
+
+# But keep templates
+!exam-prep/**/*-template.md
+!exam-prep/**/README.md
+!exam-prep/**/subjects-list.md
