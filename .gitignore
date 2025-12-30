@@ -11,7 +11,7 @@ Thumbs.db
 # exam-prep/revision-notes/*
 # exam-prep/schedule/*
 
-# But keep templates
-!exam-prep/**/*-template.md
-!exam-prep/**/README.md
-!exam-prep/**/subjects-list.md
+# But keep templates and essential files
+!exam-prep/README.md
+!exam-prep/*/*-template.md
+!exam-prep/subjects/subjects-list.md

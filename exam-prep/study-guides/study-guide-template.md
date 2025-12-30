@@ -39,7 +39,7 @@ Add examples here
 ## Important Formulas/Rules
 
 | Formula/Rule | Description | When to Use |
-|--------------|-------------|-------------|
+|:-------------|:------------|:------------|
 | Formula 1    | Description | Context     |
 | Formula 2    | Description | Context     |
 
